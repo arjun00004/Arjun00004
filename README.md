@@ -203,25 +203,6 @@ I'm focused on:
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in connecting with people working in **Data Analytics, Data Science, AI, Machine Learning, and Business Intelligence**.
-
-<p align="left">
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arjun1425/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nithyanandham0402@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-
-
-</p>
-
----
 
 ### 💭 Quote
 
