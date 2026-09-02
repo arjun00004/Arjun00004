@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arjun
+# 👋 Hi, I'm Nithyanandham
 
 ### 🎓 B.E. Graduate | Aspiring Data Analyst & Data Scientist | AI & Machine Learning Enthusiast
 
@@ -159,63 +159,6 @@ I'm particularly interested in using **AI and Machine Learning** to solve practi
 
 ---
 
-# 📂 Featured Projects
-
-> 🚧 I'm continuously building and improving projects. Check my repositories for the latest work.
-
-### 📊 Power BI Sales Dashboard
-
-**Tools:** Power BI • Excel • Data Cleaning • Data Visualization
-
-* Created an interactive business dashboard
-* Analyzed sales and performance metrics
-* Designed KPI cards and interactive visualizations
-* Provided business insights through dashboard reporting
-
-🔗 **[View Project](YOUR_POWER_BI_REPOSITORY_LINK)**
-
----
-
-### 📈 Tableau Data Analytics Dashboard
-
-**Tools:** Tableau • Data Analysis • Data Visualization
-
-* Built an interactive Tableau dashboard
-* Analyzed trends and business performance
-* Used filters, calculated fields, and interactive visualizations
-* Designed the dashboard for easy business interpretation
-
-🔗 **[View Project](YOUR_TABLEAU_REPOSITORY_LINK)**
-
----
-
-### 🐍 Python Data Analysis Project
-
-**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
-* Performed data cleaning and preprocessing
-* Conducted exploratory data analysis
-* Identified patterns and trends
-* Created meaningful visualizations
-* Generated data-driven insights
-
-🔗 **[View Project](YOUR_PYTHON_PROJECT_LINK)**
-
----
-
-### 🤖 Machine Learning Project
-
-**Tools:** Python • Pandas • NumPy • Scikit-learn • SciPy
-
-* Performed data preprocessing
-* Conducted exploratory analysis
-* Built machine learning models
-* Evaluated model performance
-* Worked toward developing predictive solutions
-
-🔗 **[View Project](YOUR_ML_PROJECT_LINK)**
-
----
 
 # 📚 Currently Learning
 
@@ -266,17 +209,15 @@ I'm always interested in connecting with people working in **Data Analytics, Dat
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arjun1425/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nithyanandham0402@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
-</a>
+
 
 </p>
 
