@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Nithyanandham
 
 ### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 🐍 Python Enthusiast
 
