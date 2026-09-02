@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- 🎓 Recently graduated with a B.E. degree
+- 🎓 Recently graduated with a B.E.ECE
 - 📊 Aspiring Data Analyst & Data Scientist
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 🐍 Strong interest in Python for Data Analytics & Data Science
