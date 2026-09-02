@@ -54,7 +54,6 @@
 
 # 📚 Currently Learning
 
-text
 📊 Advanced Data Analytics
 🤖 Machine Learning
 🧠 Artificial Intelligence
