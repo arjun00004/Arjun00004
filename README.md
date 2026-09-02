@@ -58,22 +58,6 @@ text
 
 ---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/arjun00004">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arjun00004&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="arjun00004's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=arjun00004&theme=github_dark&hide_border=true&cache_seconds=86400" alt="arjun00004's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=arjun00004&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="NITHYANANDHAM 's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun00004&theme=github_dark&radius=10" alt="arjun00004's Activity Graph" />
-</p>
-
----
-
 # 🎯 Career Goal
 
 My goal is to build a strong career in the *Data & AI domain, starting with opportunities in **Data Analytics / Data Science* and continuously growing my expertise in *Machine Learning and Artificial Intelligence*.
@@ -110,6 +94,21 @@ I'm focused on:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/arjun00004">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arjun00004&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="arjun00004's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=arjun00004&theme=github_dark&hide_border=true&cache_seconds=86400" alt="arjun00004's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=arjun00004&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="NITHYANANDHAM 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun00004&theme=github_dark&radius=10" alt="arjun00004's Activity Graph" />
+</p>
 
 
 
