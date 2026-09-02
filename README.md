@@ -175,20 +175,18 @@ text
 
 ---
 
-# 📈 GitHub Stats
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+  <a href="https://github.com/arjun00004">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arjun00004&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="arjun00004's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=arjun00004&theme=github_dark&hide_border=true&cache_seconds=86400" alt="arjun00004's GitHub Streak" width="49%" />
 </p>
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
+  <img src="https://trophy.ryglcloud.net/?username=arjun00004&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="NITHYANANDHAM 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun00004&theme=github_dark&radius=10" alt="arjun00004's Activity Graph" />
 </p>
 
 ---
