@@ -25,137 +25,28 @@
 
 ---
 
-# 🛠️ Technical Skills
-
-### 💻 Programming & Data Analysis
+## 🧰 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-*Python:* NumPy • Pandas • Matplotlib • Seaborn • SciPy
-
-### 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-*MySQL:* SQL Queries • Joins • Aggregations • Subqueries • CTEs • Window Functions
-
-### 📊 Data Visualization & BI
-
-*Power BI* • *Tableau* • *Advanced Excel*
-
-* Dashboard Development
-* Data Visualization
-* KPI Analysis
-* Data Cleaning
-* Data Transformation
-* Business Reporting
-* Interactive Dashboards
-
-### 🤖 Data Science & Machine Learning
-
-*Scikit-learn* • *SciPy* • Machine Learning
-
-* Exploratory Data Analysis
-* Data Preprocessing
-* Feature Engineering
-* Regression
-* Classification
-* Clustering
-* Model Evaluation
-* Predictive Analytics
-
-### 🧰 Tools & Platforms
-
-*Git* • *GitHub* • *Jupyter Notebook* • *Google Colab* • *VS Code*
-
----
-
-# 📊 Data Analytics
-
-I use data analytics techniques to transform raw data into useful business insights.
-
-### My Analytics Workflow
-
-text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-Data Visualization
-   ↓
-Dashboard / Report
-   ↓
-Business Insights
-   ↓
-Data-Driven Decision Making
-
-
-### 🔎 Areas I'm Practicing
-
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Statistical Analysis
-* Trend Analysis
-* KPI Analysis
-* Customer Analysis
-* Sales Analysis
-* Business Intelligence
-* Dashboard Development
-
----
-
-# 🧠 Data Science
-
-I'm building my foundation in Data Science by combining programming, statistics, analytics, and machine learning.
-
-### Data Science Workflow
-
-text
-Problem Definition
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-EDA
-       ↓
-Feature Engineering
-       ↓
-Model Building
-       ↓
-Model Evaluation
-       ↓
-Prediction
-       ↓
-Business / Real-World Solution
-
-
----
-
-# 🤖 AI & Machine Learning
-
-I'm particularly interested in using *AI and Machine Learning* to solve practical problems.
-
-### Currently Exploring
-
-* Supervised Learning
-* Unsupervised Learning
-* Regression
-* Classification
-* Clustering
-* Feature Engineering
-* Model Selection
-* Model Evaluation
-* Predictive Modeling
-* AI-powered Data Applications
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
 
 ---
 
