@@ -1,116 +1,293 @@
-# 👋 Hi, I'm Nithyanandham
+# 👋 Hi, I'm Arjun
 
-### 📊 Data Analyst | 🧑🏻‍💻 Aspiring Data Scientist | 🤖 AI Enthusiast
+### 🎓 B.E. Graduate | Aspiring Data Analyst & Data Scientist | AI & Machine Learning Enthusiast
 
-Turning raw data into **meaningful insights, interactive dashboards, and data-driven decisions.** 🚀
+I'm a recent **B.E. graduate** passionate about turning data into meaningful insights and building intelligent solutions.
 
----
+I'm currently developing my skills in **Data Analytics, Data Science, Artificial Intelligence, and Machine Learning**, while building practical projects to strengthen my problem-solving and analytical abilities.
 
-## 🌟 About Me
-
-🎓 Engineering Graduate / Data Science Enthusiast  
-📊 Passionate about Data Analytics & Business Intelligence  
-🐍 Strong interest in Python-based Data Analysis  
-📈 Love creating interactive dashboards and visualizations  
-🤖 Exploring Machine Learning & Predictive Analytics  
-🧠 Continuously improving my problem-solving and analytical skills  
-
-> **"Data is everywhere. Turning data into meaningful insights is the real skill."** 💡
+💡 I enjoy exploring data, discovering patterns, creating dashboards, and developing machine learning solutions that can support real-world decision-making.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 About Me
 
-<p align="left">
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arjun1425/)">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="YOUR_TELEGRAM_URL">
-<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+* 🎓 Recently graduated with a **B.E. degree**
+* 📊 Aspiring **Data Analyst & Data Scientist**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 🐍 Strong interest in **Python for Data Analytics & Data Science**
+* 🗄️ Learning and practicing **SQL & database concepts**
+* 📈 Creating interactive dashboards using **Power BI & Tableau**
+* 📊 Working with **Excel for data analysis and reporting**
+* 🧠 Exploring **Machine Learning algorithms and predictive analytics**
+* 🔍 Continuously improving my **problem-solving and analytical skills**
+* 🚀 Currently building projects to become industry-ready
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 🐍 Programming & Data Analysis
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
-### 📊 Data Analysis & Visualization
+### 💻 Programming & Data Analysis
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
 </p>
 
-### 📈 Business Intelligence
+**Python:** NumPy • Pandas • Matplotlib • Seaborn • SciPy
+
+### 🗄️ Database
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
-### 🤖 Machine Learning
+**MySQL:** SQL Queries • Joins • Aggregations • Subqueries • CTEs • Window Functions
 
-<p align="left">
+### 📊 Data Visualization & BI
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+**Power BI** • **Tableau** • **Advanced Excel**
 
-</p>
+* Dashboard Development
+* Data Visualization
+* KPI Analysis
+* Data Cleaning
+* Data Transformation
+* Business Reporting
+* Interactive Dashboards
 
-### 🔧 Tools & Platforms
+### 🤖 Data Science & Machine Learning
 
-<p align="left">
+**Scikit-learn** • **SciPy** • Machine Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyternotebook" />
+* Exploratory Data Analysis
+* Data Preprocessing
+* Feature Engineering
+* Regression
+* Classification
+* Clustering
+* Model Evaluation
+* Predictive Analytics
 
-</p>
+### 🧰 Tools & Platforms
+
+**Git** • **GitHub** • **Jupyter Notebook** • **Google Colab** • **VS Code**
 
 ---
 
-# 🧠 My Data Science Toolkit
+# 📊 Data Analytics
+
+I use data analytics techniques to transform raw data into useful business insights.
+
+### My Analytics Workflow
 
 ```text
-Python
-│
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── Seaborn
-│
-├── Data Cleaning
-├── Data Preprocessing
-├── Exploratory Data Analysis
-│
-├── Machine Learning
-│   └── Scikit-Learn
-│
-└── Scientific Computing
-    └── SciPy
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Exploratory Data Analysis
+   ↓
+Data Visualization
+   ↓
+Dashboard / Report
+   ↓
+Business Insights
+   ↓
+Data-Driven Decision Making
+```
+
+### 🔎 Areas I'm Practicing
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Statistical Analysis
+* Trend Analysis
+* KPI Analysis
+* Customer Analysis
+* Sales Analysis
+* Business Intelligence
+* Dashboard Development
+
+---
+
+# 🧠 Data Science
+
+I'm building my foundation in Data Science by combining programming, statistics, analytics, and machine learning.
+
+### Data Science Workflow
+
+```text
+Problem Definition
+       ↓
+Data Collection
+       ↓
+Data Cleaning
+       ↓
+EDA
+       ↓
+Feature Engineering
+       ↓
+Model Building
+       ↓
+Model Evaluation
+       ↓
+Prediction
+       ↓
+Business / Real-World Solution
+```
+
+---
+
+# 🤖 AI & Machine Learning
+
+I'm particularly interested in using **AI and Machine Learning** to solve practical problems.
+
+### Currently Exploring
+
+* Supervised Learning
+* Unsupervised Learning
+* Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Model Selection
+* Model Evaluation
+* Predictive Modeling
+* AI-powered Data Applications
+
+---
+
+# 📂 Featured Projects
+
+> 🚧 I'm continuously building and improving projects. Check my repositories for the latest work.
+
+### 📊 Power BI Sales Dashboard
+
+**Tools:** Power BI • Excel • Data Cleaning • Data Visualization
+
+* Created an interactive business dashboard
+* Analyzed sales and performance metrics
+* Designed KPI cards and interactive visualizations
+* Provided business insights through dashboard reporting
+
+🔗 **[View Project](YOUR_POWER_BI_REPOSITORY_LINK)**
+
+---
+
+### 📈 Tableau Data Analytics Dashboard
+
+**Tools:** Tableau • Data Analysis • Data Visualization
+
+* Built an interactive Tableau dashboard
+* Analyzed trends and business performance
+* Used filters, calculated fields, and interactive visualizations
+* Designed the dashboard for easy business interpretation
+
+🔗 **[View Project](YOUR_TABLEAU_REPOSITORY_LINK)**
+
+---
+
+### 🐍 Python Data Analysis Project
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn
+
+* Performed data cleaning and preprocessing
+* Conducted exploratory data analysis
+* Identified patterns and trends
+* Created meaningful visualizations
+* Generated data-driven insights
+
+🔗 **[View Project](YOUR_PYTHON_PROJECT_LINK)**
+
+---
+
+### 🤖 Machine Learning Project
+
+**Tools:** Python • Pandas • NumPy • Scikit-learn • SciPy
+
+* Performed data preprocessing
+* Conducted exploratory analysis
+* Built machine learning models
+* Evaluated model performance
+* Worked toward developing predictive solutions
+
+🔗 **[View Project](YOUR_ML_PROJECT_LINK)**
+
+---
+
+# 📚 Currently Learning
+
+```text
+📊 Advanced Data Analytics
+🤖 Machine Learning
+🧠 Artificial Intelligence
+🐍 Advanced Python
+🗄️ Advanced SQL
+📈 Business Intelligence
+📐 Statistics for Data Science
+🚀 End-to-End Data Science Projects
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🎯 Career Goal
+
+My goal is to build a strong career in the **Data & AI domain**, starting with opportunities in **Data Analytics / Data Science** and continuously growing my expertise in **Machine Learning and Artificial Intelligence**.
+
+I'm focused on:
+
+> **Learning → Building → Analyzing → Solving → Improving 🚀**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with people working in **Data Analytics, Data Science, AI, Machine Learning, and Business Intelligence**.
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+</p>
+
+---
+
+### 💭 Quote
+
+> **"Turning data into insights, insights into decisions, and ideas into intelligent solutions."** 📊🤖
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
