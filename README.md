@@ -23,7 +23,7 @@ Turning raw data into **meaningful insights, interactive dashboards, and data-dr
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arjun1425/)">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -37,10 +37,6 @@ Turning raw data into **meaningful insights, interactive dashboards, and data-dr
 
 <a href="YOUR_TELEGRAM_URL">
 <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="YOUR_MEDIUM_URL">
-<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </p>
@@ -93,7 +89,7 @@ Turning raw data into **meaningful insights, interactive dashboards, and data-dr
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyternotebook" />
 
 </p>
 
