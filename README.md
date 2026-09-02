@@ -54,14 +54,14 @@
 
 # 📚 Currently Learning
 
-📊 Advanced Data Analytics
-🤖 Machine Learning
-🧠 Artificial Intelligence
-🐍 Advanced Python
-🗄️ Advanced SQL
-📈 Business Intelligence
-📐 Statistics for Data Science
-🚀 End-to-End Data Science Projects
+-📊 Advanced Data Analytics
+-🤖 Machine Learning
+-🧠 Artificial Intelligence
+-🐍 Advanced Python
+-🗄️ Advanced SQL
+-📈 Business Intelligence
+-📐 Statistics for Data Science
+-🚀 End-to-End Data Science Projects
 
 
 ---
