@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithyanandham
 
-### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 🐍 Python Enthusiast
+### 📊 Data Analyst | 🧑🏻‍💻 Aspiring Data Scientist | 🤖 AI Enthusiast
 
 Turning raw data into **meaningful insights, interactive dashboards, and data-driven decisions.** 🚀
 
