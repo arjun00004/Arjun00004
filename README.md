@@ -68,7 +68,7 @@
 
 # 🎯 Career Goal
 
-My goal is to build a strong career in the *Data & AI domain, starting with opportunities in **Data Analytics / Data Science* and continuously growing my expertise in *Machine Learning and Artificial Intelligence*.
+My goal is to build a strong career in the **Data & AI** domain, starting with opportunities in **Data Analytics / Data Science** and continuously growing my expertise in *Machine Learning and Artificial Intelligence*.
 
 I'm focused on:
 
