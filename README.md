@@ -118,8 +118,6 @@ I'm focused on:
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun00004&theme=github_dark&radius=10" alt="arjun00004's Activity Graph" />
 </p>
 
-
-
 ⭐ *Thanks for visiting my profile!*
 
 If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
